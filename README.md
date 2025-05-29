@@ -22,3 +22,6 @@ This project aligns well with the learning goals of the internship by applying r
 
 #OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/8050a8cc-fc15-483c-8a9c-2cb9be9b7acb)
+
+![Image](https://github.com/user-attachments/assets/9191c939-c54e-4698-a4d0-62c7a7780f34)
